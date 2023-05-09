@@ -1,0 +1,9 @@
+/* VISIBILIDADE ELEMENTOR - NÃO APAGAR */
+
+.logged-in-condition .hide-logged-in {
+	display: none!important;
+}
+
+.logged-out-condition .hide-logged-out {
+	display: none!important;
+} 
